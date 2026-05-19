@@ -107,6 +107,7 @@ Open-source tools for building and running your own evaluations.
 - **[DeepEval](https://github.com/confident-ai/deepeval)** : Unit testing framework for LLMs with 14+ evaluation metrics.
 - **[ragas](https://github.com/explodinggradients/ragas)** : Evaluation framework focused on RAG pipelines.
 - **[Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai)** : UK AISI's evaluation framework for AI safety.
+- **[agenttrace](https://github.com/luoyuctl/agenttrace)** : Local-first TUI and CLI for evaluating AI coding agent sessions with cost, token, latency, and health regression gates.
 
 ## LLM-as-Judge
 
